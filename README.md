@@ -1,1 +1,1 @@
-# demo-project
+# Pixel Tech Hub demo-project 
